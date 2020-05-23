@@ -3,7 +3,7 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: page
-title: Web Apps for Mere Mortals
+title: Web Apps for You
 hero_image: assets/img/index.jpg
 hero_height: is-fullheight
 ---
