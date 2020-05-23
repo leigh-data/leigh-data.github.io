@@ -1,6 +1,13 @@
+.navbar {
+  font-family: "HammerFat", sans-serif;
+  font-size: 1.2rem;
+}
+
 /* HERO TEXT STYLES */
 .hero.is-primary {
   align-items: center;
-  // .title {
-  // }
+  .title {
+    font-family: "HammerFat", sans-serif;
+    color: $primary;
+  }
 }
