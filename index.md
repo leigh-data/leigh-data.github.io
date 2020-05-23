@@ -4,7 +4,7 @@
 
 layout: page
 title: Web Apps for Mere Mortals
-hero_image: assets/img/hero.jpg
+hero_image: assets/img/index.jpg
 hero_height: is-fullheight
 ---
 
